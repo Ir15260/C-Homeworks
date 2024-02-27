@@ -1,0 +1,14 @@
+C:\Users\Ilija\Desktop\PROGRAMING\SEAVUS Academy\3.C#\Class 1\QinshiftAcademy.Excercise4\QinshiftAcademy.Excercise4\bin\Debug\net6.0\QinshiftAcademy.Excercise4.exe
+C:\Users\Ilija\Desktop\PROGRAMING\SEAVUS Academy\3.C#\Class 1\QinshiftAcademy.Excercise4\QinshiftAcademy.Excercise4\bin\Debug\net6.0\QinshiftAcademy.Excercise4.deps.json
+C:\Users\Ilija\Desktop\PROGRAMING\SEAVUS Academy\3.C#\Class 1\QinshiftAcademy.Excercise4\QinshiftAcademy.Excercise4\bin\Debug\net6.0\QinshiftAcademy.Excercise4.runtimeconfig.json
+C:\Users\Ilija\Desktop\PROGRAMING\SEAVUS Academy\3.C#\Class 1\QinshiftAcademy.Excercise4\QinshiftAcademy.Excercise4\bin\Debug\net6.0\QinshiftAcademy.Excercise4.dll
+C:\Users\Ilija\Desktop\PROGRAMING\SEAVUS Academy\3.C#\Class 1\QinshiftAcademy.Excercise4\QinshiftAcademy.Excercise4\bin\Debug\net6.0\QinshiftAcademy.Excercise4.pdb
+C:\Users\Ilija\Desktop\PROGRAMING\SEAVUS Academy\3.C#\Class 1\QinshiftAcademy.Excercise4\QinshiftAcademy.Excercise4\obj\Debug\net6.0\QinshiftAcademy.Excercise4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilija\Desktop\PROGRAMING\SEAVUS Academy\3.C#\Class 1\QinshiftAcademy.Excercise4\QinshiftAcademy.Excercise4\obj\Debug\net6.0\QinshiftAcademy.Excercise4.AssemblyInfoInputs.cache
+C:\Users\Ilija\Desktop\PROGRAMING\SEAVUS Academy\3.C#\Class 1\QinshiftAcademy.Excercise4\QinshiftAcademy.Excercise4\obj\Debug\net6.0\QinshiftAcademy.Excercise4.AssemblyInfo.cs
+C:\Users\Ilija\Desktop\PROGRAMING\SEAVUS Academy\3.C#\Class 1\QinshiftAcademy.Excercise4\QinshiftAcademy.Excercise4\obj\Debug\net6.0\QinshiftAcademy.Excercise4.csproj.CoreCompileInputs.cache
+C:\Users\Ilija\Desktop\PROGRAMING\SEAVUS Academy\3.C#\Class 1\QinshiftAcademy.Excercise4\QinshiftAcademy.Excercise4\obj\Debug\net6.0\QinshiftAcademy.Excercise4.dll
+C:\Users\Ilija\Desktop\PROGRAMING\SEAVUS Academy\3.C#\Class 1\QinshiftAcademy.Excercise4\QinshiftAcademy.Excercise4\obj\Debug\net6.0\refint\QinshiftAcademy.Excercise4.dll
+C:\Users\Ilija\Desktop\PROGRAMING\SEAVUS Academy\3.C#\Class 1\QinshiftAcademy.Excercise4\QinshiftAcademy.Excercise4\obj\Debug\net6.0\QinshiftAcademy.Excercise4.pdb
+C:\Users\Ilija\Desktop\PROGRAMING\SEAVUS Academy\3.C#\Class 1\QinshiftAcademy.Excercise4\QinshiftAcademy.Excercise4\obj\Debug\net6.0\QinshiftAcademy.Excercise4.genruntimeconfig.cache
+C:\Users\Ilija\Desktop\PROGRAMING\SEAVUS Academy\3.C#\Class 1\QinshiftAcademy.Excercise4\QinshiftAcademy.Excercise4\obj\Debug\net6.0\ref\QinshiftAcademy.Excercise4.dll

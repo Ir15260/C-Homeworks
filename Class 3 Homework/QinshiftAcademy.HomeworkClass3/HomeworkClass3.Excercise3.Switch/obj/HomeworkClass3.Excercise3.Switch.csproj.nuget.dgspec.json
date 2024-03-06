@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Homework\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise3.Switch\\HomeworkClass3.Excercise3.Switch.csproj": {}
+    "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise3.Switch\\HomeworkClass3.Excercise3.Switch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Homework\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise3.Switch\\HomeworkClass3.Excercise3.Switch.csproj": {
+    "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise3.Switch\\HomeworkClass3.Excercise3.Switch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Homework\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise3.Switch\\HomeworkClass3.Excercise3.Switch.csproj",
+        "projectUniqueName": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise3.Switch\\HomeworkClass3.Excercise3.Switch.csproj",
         "projectName": "HomeworkClass3.Excercise3.Switch",
-        "projectPath": "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Homework\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise3.Switch\\HomeworkClass3.Excercise3.Switch.csproj",
+        "projectPath": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise3.Switch\\HomeworkClass3.Excercise3.Switch.csproj",
         "packagesPath": "C:\\Users\\Ilija\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Homework\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise3.Switch\\obj\\",
+        "outputPath": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise3.Switch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

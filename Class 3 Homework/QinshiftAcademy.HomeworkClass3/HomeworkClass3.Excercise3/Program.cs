@@ -8,46 +8,83 @@
 //The result is: 25 Try to solve the task in bot ways, using if and switch.
 
 
-Console.WriteLine("Please enter the first number");
-string firstNumber = Console.ReadLine();
+
 double parsedfirstNumber;
-bool parsingResult1 = double.TryParse(firstNumber, out parsedfirstNumber);
+do
+{
+    Console.WriteLine("Please enter the First number");
+    string firstNumber = Console.ReadLine();
+    bool parsingResult1 = double.TryParse(firstNumber, out parsedfirstNumber);
 
-Console.WriteLine("Please enter the Second number");
-string secondNumber = Console.ReadLine();
+    if (!parsingResult1)
+    {
+        Console.WriteLine("Invalid input. Please enter a valid number.");
+    }
+    else
+    {
+        // Input is valid, exit the loop
+        break;
+    }
+
+} while (true);
+
+
+
 double parsedSecondNumber;
-bool parsingResult2 = double.TryParse(secondNumber, out parsedSecondNumber);
 
-Console.WriteLine("Please enter one of these  +, - , * , /");
-string sign = Console.ReadLine();
-if(sign == "+" || sign == "-" || sign == "*" || sign == "/")
-{ 
+do
+{
+    Console.WriteLine("Please enter the Second number");
+    string secondNumber = Console.ReadLine();
+    bool parsingResult2 = double.TryParse(secondNumber, out parsedSecondNumber);
+
+    if (!parsingResult2)
+    {
+        Console.WriteLine("Invalid input. Please enter a valid number.");
+    }
+    else
+    {
+       
+        break;
+    }
+
+} while (true);
 
 
-if(sign == "+")
-{
-    double sum = parsedfirstNumber + parsedSecondNumber;
-    Console.WriteLine(sum);
-    
-}
-else if(sign == "-")
-{
-    double minus = parsedfirstNumber - parsedSecondNumber;
-    Console.WriteLine(minus);
-}
-else if (sign == "*")
-{
-    double multiply = parsedfirstNumber * parsedSecondNumber;
-    Console.WriteLine(multiply);
-}
-else
-{
-    double devide = parsedfirstNumber / parsedSecondNumber;
-    Console.WriteLine(devide);
-}
-}
-else
-{
-    Console.WriteLine("Invalid simbol - Please enter one of these  +, - , * , /");
-}
 
+while (true)
+{
+    Console.WriteLine("Please enter one of these +, -, *, /");
+    string sign = Console.ReadLine();
+
+    if (sign == "+" || sign == "-" || sign == "*" || sign == "/")
+    {
+        if (sign == "+")
+        {
+            double sum = parsedfirstNumber + parsedSecondNumber;
+            Console.WriteLine(sum);
+        }
+        else if (sign == "-")
+        {
+            double minus = parsedfirstNumber - parsedSecondNumber;
+            Console.WriteLine(minus);
+        }
+        else if (sign == "*")
+        {
+            double multiply = parsedfirstNumber * parsedSecondNumber;
+            Console.WriteLine(multiply);
+        }
+        else
+        {
+            double divide = parsedfirstNumber / parsedSecondNumber;
+            Console.WriteLine(divide);
+        }
+
+        
+        break;
+    }
+    else
+    {
+        Console.WriteLine("Invalid symbol - Please enter one of these +, -, *, /");
+    }
+}

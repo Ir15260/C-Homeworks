@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Homework\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\",
+  "WorkspaceRootPath": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{801E8448-7DFA-4297-AF9C-1F7CFB727FD0}|HomeworkClass3.Excercise1\\HomeworkClass3.Excercise1.csproj|c:\\users\\ilija\\desktop\\programing\\seavus academy\\3.c#\\homework\\class 3 homework\\qinshiftacademy.homeworkclass3\\homeworkclass3.excercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{801E8448-7DFA-4297-AF9C-1F7CFB727FD0}|HomeworkClass3.Excercise1\\HomeworkClass3.Excercise1.csproj|solutionrelative:homeworkclass3.excercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30E937E2-D6DA-4E18-94D4-FDF13CE79800}|HomeworkClass3.Excercise2\\HomeworkClass3.Excercise2.csproj|c:\\users\\ilija\\desktop\\programing\\seavus academy\\3.c#\\homework\\class 3 homework\\qinshiftacademy.homeworkclass3\\homeworkclass3.excercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30E937E2-D6DA-4E18-94D4-FDF13CE79800}|HomeworkClass3.Excercise2\\HomeworkClass3.Excercise2.csproj|solutionrelative:homeworkclass3.excercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{801B1CC0-E711-487F-870E-5C255C624262}|HomeworkClass3.Excercise3\\HomeworkClass3.Excercise3.csproj|c:\\users\\ilija\\desktop\\programing\\seavus academy\\3.c#\\homework\\class 3 homework\\qinshiftacademy.homeworkclass3\\homeworkclass3.excercise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{801B1CC0-E711-487F-870E-5C255C624262}|HomeworkClass3.Excercise3\\HomeworkClass3.Excercise3.csproj|solutionrelative:homeworkclass3.excercise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71A8C4E5-960D-48DC-940F-95A47A34875E}|HomeworkClass3.Excercise3.Switch\\HomeworkClass3.Excercise3.Switch.csproj|c:\\users\\ilija\\desktop\\programing\\seavus academy\\3.c#\\homework\\class 3 homework\\qinshiftacademy.homeworkclass3\\homeworkclass3.excercise3.switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71A8C4E5-960D-48DC-940F-95A47A34875E}|HomeworkClass3.Excercise3.Switch\\HomeworkClass3.Excercise3.Switch.csproj|c:\\users\\ilija\\documents\\github\\c-homeworks\\class 3 homework\\qinshiftacademy.homeworkclass3\\homeworkclass3.excercise3.switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71A8C4E5-960D-48DC-940F-95A47A34875E}|HomeworkClass3.Excercise3.Switch\\HomeworkClass3.Excercise3.Switch.csproj|solutionrelative:homeworkclass3.excercise3.switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801B1CC0-E711-487F-870E-5C255C624262}|HomeworkClass3.Excercise3\\HomeworkClass3.Excercise3.IF.csproj|c:\\users\\ilija\\documents\\github\\c-homeworks\\class 3 homework\\qinshiftacademy.homeworkclass3\\homeworkclass3.excercise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801B1CC0-E711-487F-870E-5C255C624262}|HomeworkClass3.Excercise3\\HomeworkClass3.Excercise3.IF.csproj|solutionrelative:homeworkclass3.excercise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801E8448-7DFA-4297-AF9C-1F7CFB727FD0}|HomeworkClass3.Excercise1\\HomeworkClass3.Excercise1.csproj|c:\\users\\ilija\\documents\\github\\c-homeworks\\class 3 homework\\qinshiftacademy.homeworkclass3\\homeworkclass3.excercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801E8448-7DFA-4297-AF9C-1F7CFB727FD0}|HomeworkClass3.Excercise1\\HomeworkClass3.Excercise1.csproj|solutionrelative:homeworkclass3.excercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Homework\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise3.Switch\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise3.Switch\\Program.cs",
               "RelativeDocumentMoniker": "HomeworkClass3.Excercise3.Switch\\Program.cs",
-              "ToolTip": "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Homework\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise3.Switch\\Program.cs",
+              "ToolTip": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise3.Switch\\Program.cs",
               "RelativeToolTip": "HomeworkClass3.Excercise3.Switch\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T21:22:03.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Homework\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise3\\Program.cs",
-              "RelativeDocumentMoniker": "HomeworkClass3.Excercise3\\Program.cs",
-              "ToolTip": "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Homework\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise3\\Program.cs",
-              "RelativeToolTip": "HomeworkClass3.Excercise3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T21:02:43.198Z",
+              "WhenOpened": "2024-03-06T17:25:50.211Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Homework\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise2\\Program.cs",
-              "RelativeDocumentMoniker": "HomeworkClass3.Excercise2\\Program.cs",
-              "ToolTip": "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Homework\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise2\\Program.cs",
-              "RelativeToolTip": "HomeworkClass3.Excercise2\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "DocumentMoniker": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise3\\Program.cs",
+              "RelativeDocumentMoniker": "HomeworkClass3.Excercise3\\Program.cs",
+              "ToolTip": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise3\\Program.cs",
+              "RelativeToolTip": "HomeworkClass3.Excercise3\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAFIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T20:42:11.563Z",
+              "WhenOpened": "2024-03-06T17:12:59.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Homework\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise1\\Program.cs",
               "RelativeDocumentMoniker": "HomeworkClass3.Excercise1\\Program.cs",
-              "ToolTip": "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Homework\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise1\\Program.cs",
+              "ToolTip": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise1\\Program.cs",
               "RelativeToolTip": "HomeworkClass3.Excercise1\\Program.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T20:19:25.694Z",
+              "WhenOpened": "2024-03-06T17:12:29.151Z",
               "EditorCaption": ""
             }
           ]

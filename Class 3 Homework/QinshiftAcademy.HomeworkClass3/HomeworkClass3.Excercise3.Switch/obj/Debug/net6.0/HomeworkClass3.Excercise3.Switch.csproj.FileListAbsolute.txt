@@ -12,3 +12,18 @@ C:\Users\Ilija\Desktop\PROGRAMING\SEAVUS Academy\3.C#\Homework\Class 3 Homework\
 C:\Users\Ilija\Desktop\PROGRAMING\SEAVUS Academy\3.C#\Homework\Class 3 Homework\QinshiftAcademy.HomeworkClass3\HomeworkClass3.Excercise3.Switch\obj\Debug\net6.0\HomeworkClass3.Excercise3.Switch.pdb
 C:\Users\Ilija\Desktop\PROGRAMING\SEAVUS Academy\3.C#\Homework\Class 3 Homework\QinshiftAcademy.HomeworkClass3\HomeworkClass3.Excercise3.Switch\obj\Debug\net6.0\HomeworkClass3.Excercise3.Switch.genruntimeconfig.cache
 C:\Users\Ilija\Desktop\PROGRAMING\SEAVUS Academy\3.C#\Homework\Class 3 Homework\QinshiftAcademy.HomeworkClass3\HomeworkClass3.Excercise3.Switch\obj\Debug\net6.0\ref\HomeworkClass3.Excercise3.Switch.dll
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 3 Homework\QinshiftAcademy.HomeworkClass3\HomeworkClass3.Excercise3.Switch\bin\Debug\net6.0\HomeworkClass3.Excercise3.Switch.exe
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 3 Homework\QinshiftAcademy.HomeworkClass3\HomeworkClass3.Excercise3.Switch\bin\Debug\net6.0\HomeworkClass3.Excercise3.Switch.deps.json
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 3 Homework\QinshiftAcademy.HomeworkClass3\HomeworkClass3.Excercise3.Switch\bin\Debug\net6.0\HomeworkClass3.Excercise3.Switch.runtimeconfig.json
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 3 Homework\QinshiftAcademy.HomeworkClass3\HomeworkClass3.Excercise3.Switch\bin\Debug\net6.0\HomeworkClass3.Excercise3.Switch.dll
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 3 Homework\QinshiftAcademy.HomeworkClass3\HomeworkClass3.Excercise3.Switch\bin\Debug\net6.0\HomeworkClass3.Excercise3.Switch.pdb
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 3 Homework\QinshiftAcademy.HomeworkClass3\HomeworkClass3.Excercise3.Switch\obj\Debug\net6.0\HomeworkClass3.Excercise3.Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 3 Homework\QinshiftAcademy.HomeworkClass3\HomeworkClass3.Excercise3.Switch\obj\Debug\net6.0\HomeworkClass3.Excercise3.Switch.AssemblyInfoInputs.cache
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 3 Homework\QinshiftAcademy.HomeworkClass3\HomeworkClass3.Excercise3.Switch\obj\Debug\net6.0\HomeworkClass3.Excercise3.Switch.AssemblyInfo.cs
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 3 Homework\QinshiftAcademy.HomeworkClass3\HomeworkClass3.Excercise3.Switch\obj\Debug\net6.0\HomeworkClass3.Excercise3.Switch.csproj.CoreCompileInputs.cache
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 3 Homework\QinshiftAcademy.HomeworkClass3\HomeworkClass3.Excercise3.Switch\obj\Debug\net6.0\HomeworkClass3.Excercise3.Switch.sourcelink.json
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 3 Homework\QinshiftAcademy.HomeworkClass3\HomeworkClass3.Excercise3.Switch\obj\Debug\net6.0\HomeworkClass3.Excercise3.Switch.dll
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 3 Homework\QinshiftAcademy.HomeworkClass3\HomeworkClass3.Excercise3.Switch\obj\Debug\net6.0\refint\HomeworkClass3.Excercise3.Switch.dll
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 3 Homework\QinshiftAcademy.HomeworkClass3\HomeworkClass3.Excercise3.Switch\obj\Debug\net6.0\HomeworkClass3.Excercise3.Switch.pdb
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 3 Homework\QinshiftAcademy.HomeworkClass3\HomeworkClass3.Excercise3.Switch\obj\Debug\net6.0\HomeworkClass3.Excercise3.Switch.genruntimeconfig.cache
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 3 Homework\QinshiftAcademy.HomeworkClass3\HomeworkClass3.Excercise3.Switch\obj\Debug\net6.0\ref\HomeworkClass3.Excercise3.Switch.dll

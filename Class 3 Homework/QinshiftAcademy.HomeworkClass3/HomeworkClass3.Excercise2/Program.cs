@@ -42,24 +42,28 @@ int number;
 bool parsingResult = int.TryParse(numberOfArray, out number);
 
 
-if (number == 1 || number == 2)
+if (parsingResult)
 {
- if(number == 1)
+    if (number == 1)
     {
         for (int i = 0; i < studentsG1.Length; i++)
         {
-                       Console.WriteLine(studentsG1[i]);
-                  }
+            Console.WriteLine(studentsG1[i]);
+        }
     }
-    else
+    else if (number == 2)
     {
         for (int i = 0; i < studentsG2.Length; i++)
         {
             Console.WriteLine(studentsG2[i]);
         }
     }
+    else
+    {
+        Console.WriteLine("Invalid input - please add 1 or 2");
+    }
 }
 else
 {
-    Console.WriteLine("Invalid input - please add 1 or 2");
+    Console.WriteLine("Invalid input you must enter a number");
 }

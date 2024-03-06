@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Homework\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise2\\HomeworkClass3.Excercise2.csproj": {}
+    "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise2\\HomeworkClass3.Excercise2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Homework\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise2\\HomeworkClass3.Excercise2.csproj": {
+    "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise2\\HomeworkClass3.Excercise2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Homework\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise2\\HomeworkClass3.Excercise2.csproj",
+        "projectUniqueName": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise2\\HomeworkClass3.Excercise2.csproj",
         "projectName": "HomeworkClass3.Excercise2",
-        "projectPath": "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Homework\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise2\\HomeworkClass3.Excercise2.csproj",
+        "projectPath": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise2\\HomeworkClass3.Excercise2.csproj",
         "packagesPath": "C:\\Users\\Ilija\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Homework\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise2\\obj\\",
+        "outputPath": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 3 Homework\\QinshiftAcademy.HomeworkClass3\\HomeworkClass3.Excercise2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

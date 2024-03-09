@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 4 Homework\\QinshiftAcademy.HomeworkClass4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58AD3ED9-4D4E-4556-8E12-3D37B4820A59}|HomeworkClass4.Excercise3\\HomeworkClass4.Excercise3.csproj|c:\\users\\ilija\\documents\\github\\c-homeworks\\class 4 homework\\qinshiftacademy.homeworkclass4\\homeworkclass4.excercise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AD3ED9-4D4E-4556-8E12-3D37B4820A59}|HomeworkClass4.Excercise3\\HomeworkClass4.Excercise3.csproj|solutionrelative:homeworkclass4.excercise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF265478-6415-4AC6-B99F-3ADD53CFBAD5}|HomeworkClass4.Excercise1\\HomeworkClass4.Excercise1.csproj|c:\\users\\ilija\\documents\\github\\c-homeworks\\class 4 homework\\qinshiftacademy.homeworkclass4\\homeworkclass4.excercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF265478-6415-4AC6-B99F-3ADD53CFBAD5}|HomeworkClass4.Excercise1\\HomeworkClass4.Excercise1.csproj|solutionrelative:homeworkclass4.excercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE91E4E-3382-4C8E-BA84-02BA7684AD45}|HomeworkClass4.Excercise2\\HomeworkClass4.Excercise2.csproj|c:\\users\\ilija\\documents\\github\\c-homeworks\\class 4 homework\\qinshiftacademy.homeworkclass4\\homeworkclass4.excercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE91E4E-3382-4C8E-BA84-02BA7684AD45}|HomeworkClass4.Excercise2\\HomeworkClass4.Excercise2.csproj|solutionrelative:homeworkclass4.excercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D2673D-7343-4503-BF13-2783655865F1}|HomeworkClass4.Excercise4\\HomeworkClass4.Excercise4.csproj|c:\\users\\ilija\\documents\\github\\c-homeworks\\class 4 homework\\qinshiftacademy.homeworkclass4\\homeworkclass4.excercise4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D2673D-7343-4503-BF13-2783655865F1}|HomeworkClass4.Excercise4\\HomeworkClass4.Excercise4.csproj|solutionrelative:homeworkclass4.excercise4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 4 Homework\\QinshiftAcademy.HomeworkClass4\\HomeworkClass4.Excercise4\\Program.cs",
+              "RelativeDocumentMoniker": "HomeworkClass4.Excercise4\\Program.cs",
+              "ToolTip": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 4 Homework\\QinshiftAcademy.HomeworkClass4\\HomeworkClass4.Excercise4\\Program.cs",
+              "RelativeToolTip": "HomeworkClass4.Excercise4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T21:31:34.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 4 Homework\\QinshiftAcademy.HomeworkClass4\\HomeworkClass4.Excercise3\\Program.cs",
+              "RelativeDocumentMoniker": "HomeworkClass4.Excercise3\\Program.cs",
+              "ToolTip": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 4 Homework\\QinshiftAcademy.HomeworkClass4\\HomeworkClass4.Excercise3\\Program.cs",
+              "RelativeToolTip": "HomeworkClass4.Excercise3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:52:37.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 4 Homework\\QinshiftAcademy.HomeworkClass4\\HomeworkClass4.Excercise2\\Program.cs",
+              "RelativeDocumentMoniker": "HomeworkClass4.Excercise2\\Program.cs",
+              "ToolTip": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 4 Homework\\QinshiftAcademy.HomeworkClass4\\HomeworkClass4.Excercise2\\Program.cs",
+              "RelativeToolTip": "HomeworkClass4.Excercise2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:30:13.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 4 Homework\\QinshiftAcademy.HomeworkClass4\\HomeworkClass4.Excercise1\\Program.cs",
+              "RelativeDocumentMoniker": "HomeworkClass4.Excercise1\\Program.cs",
+              "ToolTip": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 4 Homework\\QinshiftAcademy.HomeworkClass4\\HomeworkClass4.Excercise1\\Program.cs",
+              "RelativeToolTip": "HomeworkClass4.Excercise1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:08:04.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

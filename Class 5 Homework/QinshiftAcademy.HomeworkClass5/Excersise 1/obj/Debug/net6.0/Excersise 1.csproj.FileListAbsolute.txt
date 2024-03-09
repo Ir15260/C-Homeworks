@@ -1,0 +1,15 @@
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 5 Homework\QinshiftAcademy.HomeworkClass5\Excersise 1\bin\Debug\net6.0\Excersise 1.exe
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 5 Homework\QinshiftAcademy.HomeworkClass5\Excersise 1\bin\Debug\net6.0\Excersise 1.deps.json
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 5 Homework\QinshiftAcademy.HomeworkClass5\Excersise 1\bin\Debug\net6.0\Excersise 1.runtimeconfig.json
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 5 Homework\QinshiftAcademy.HomeworkClass5\Excersise 1\bin\Debug\net6.0\Excersise 1.dll
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 5 Homework\QinshiftAcademy.HomeworkClass5\Excersise 1\bin\Debug\net6.0\Excersise 1.pdb
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 5 Homework\QinshiftAcademy.HomeworkClass5\Excersise 1\obj\Debug\net6.0\Excersise 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 5 Homework\QinshiftAcademy.HomeworkClass5\Excersise 1\obj\Debug\net6.0\Excersise 1.AssemblyInfoInputs.cache
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 5 Homework\QinshiftAcademy.HomeworkClass5\Excersise 1\obj\Debug\net6.0\Excersise 1.AssemblyInfo.cs
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 5 Homework\QinshiftAcademy.HomeworkClass5\Excersise 1\obj\Debug\net6.0\Excersise 1.csproj.CoreCompileInputs.cache
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 5 Homework\QinshiftAcademy.HomeworkClass5\Excersise 1\obj\Debug\net6.0\Excersise 1.sourcelink.json
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 5 Homework\QinshiftAcademy.HomeworkClass5\Excersise 1\obj\Debug\net6.0\Excersise 1.dll
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 5 Homework\QinshiftAcademy.HomeworkClass5\Excersise 1\obj\Debug\net6.0\refint\Excersise 1.dll
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 5 Homework\QinshiftAcademy.HomeworkClass5\Excersise 1\obj\Debug\net6.0\Excersise 1.pdb
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 5 Homework\QinshiftAcademy.HomeworkClass5\Excersise 1\obj\Debug\net6.0\Excersise 1.genruntimeconfig.cache
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 5 Homework\QinshiftAcademy.HomeworkClass5\Excersise 1\obj\Debug\net6.0\ref\Excersise 1.dll

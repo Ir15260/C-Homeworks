@@ -1,0 +1,15 @@
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 4 Homework\QinshiftAcademy.HomeworkClass4\HomeworkClass4.Excercise2\bin\Debug\net6.0\HomeworkClass4.Excercise2.exe
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 4 Homework\QinshiftAcademy.HomeworkClass4\HomeworkClass4.Excercise2\bin\Debug\net6.0\HomeworkClass4.Excercise2.deps.json
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 4 Homework\QinshiftAcademy.HomeworkClass4\HomeworkClass4.Excercise2\bin\Debug\net6.0\HomeworkClass4.Excercise2.runtimeconfig.json
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 4 Homework\QinshiftAcademy.HomeworkClass4\HomeworkClass4.Excercise2\bin\Debug\net6.0\HomeworkClass4.Excercise2.dll
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 4 Homework\QinshiftAcademy.HomeworkClass4\HomeworkClass4.Excercise2\bin\Debug\net6.0\HomeworkClass4.Excercise2.pdb
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 4 Homework\QinshiftAcademy.HomeworkClass4\HomeworkClass4.Excercise2\obj\Debug\net6.0\HomeworkClass4.Excercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 4 Homework\QinshiftAcademy.HomeworkClass4\HomeworkClass4.Excercise2\obj\Debug\net6.0\HomeworkClass4.Excercise2.AssemblyInfoInputs.cache
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 4 Homework\QinshiftAcademy.HomeworkClass4\HomeworkClass4.Excercise2\obj\Debug\net6.0\HomeworkClass4.Excercise2.AssemblyInfo.cs
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 4 Homework\QinshiftAcademy.HomeworkClass4\HomeworkClass4.Excercise2\obj\Debug\net6.0\HomeworkClass4.Excercise2.csproj.CoreCompileInputs.cache
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 4 Homework\QinshiftAcademy.HomeworkClass4\HomeworkClass4.Excercise2\obj\Debug\net6.0\HomeworkClass4.Excercise2.sourcelink.json
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 4 Homework\QinshiftAcademy.HomeworkClass4\HomeworkClass4.Excercise2\obj\Debug\net6.0\HomeworkClass4.Excercise2.dll
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 4 Homework\QinshiftAcademy.HomeworkClass4\HomeworkClass4.Excercise2\obj\Debug\net6.0\refint\HomeworkClass4.Excercise2.dll
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 4 Homework\QinshiftAcademy.HomeworkClass4\HomeworkClass4.Excercise2\obj\Debug\net6.0\HomeworkClass4.Excercise2.pdb
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 4 Homework\QinshiftAcademy.HomeworkClass4\HomeworkClass4.Excercise2\obj\Debug\net6.0\HomeworkClass4.Excercise2.genruntimeconfig.cache
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 4 Homework\QinshiftAcademy.HomeworkClass4\HomeworkClass4.Excercise2\obj\Debug\net6.0\ref\HomeworkClass4.Excercise2.dll

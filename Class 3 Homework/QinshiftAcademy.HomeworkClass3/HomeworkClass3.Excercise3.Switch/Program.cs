@@ -10,7 +10,7 @@
 
 
 double parsedfirstNumber;
-do
+while(true)
 {
     Console.WriteLine("Please enter the First number");
     string firstNumber = Console.ReadLine();
@@ -22,17 +22,17 @@ do
     }
     else
     {
-        // Input is valid, exit the loop
+        
         break;
     }
 
-} while (true);
+}
 
 
 
 double parsedSecondNumber;
 
-do
+while(true)
 {
     Console.WriteLine("Please enter the Second number");
     string secondNumber = Console.ReadLine();
@@ -48,8 +48,7 @@ do
         break;
     }
 
-} while (true);
-
+} 
 
 
 
@@ -58,33 +57,34 @@ while (true)
     Console.WriteLine("Please enter one of these +, -, *, /");
     string sign = Console.ReadLine();
 
-
     if (sign == "+" || sign == "-" || sign == "*" || sign == "/")
     {
-        switch (sign)
+        if (sign == "+")
         {
-            case "+":
-                double sum = parsedfirstNumber + parsedSecondNumber;
-                Console.WriteLine(sum);
-                break;
-
-            case "-":
-                double minus = parsedfirstNumber - parsedSecondNumber;
-                Console.WriteLine(minus);
-                break;
-            case "*":
-                double multiply = parsedfirstNumber * parsedSecondNumber;
-                Console.WriteLine(multiply);
-                break;
-            case "/":
-                double devide = parsedfirstNumber / parsedSecondNumber;
-                Console.WriteLine(devide);
-                break;
+            double sum = parsedfirstNumber + parsedSecondNumber;
+            Console.WriteLine(sum);
         }
+        else if (sign == "-")
+        {
+            double minus = parsedfirstNumber - parsedSecondNumber;
+            Console.WriteLine(minus);
+        }
+        else if (sign == "*")
+        {
+            double multiply = parsedfirstNumber * parsedSecondNumber;
+            Console.WriteLine(multiply);
+        }
+        else
+        {
+            double divide = parsedfirstNumber / parsedSecondNumber;
+            Console.WriteLine(divide);
+        }
+
+
         break;
     }
     else
     {
-        Console.WriteLine("Invalid simbol - Please enter one of these  +, - , * , /");
+        Console.WriteLine("Invalid symbol - Please enter one of these +, -, *, /");
     }
 }

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 5 Homework\\QinshiftAcademy.HomeworkClass5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA0447F1-628A-40E6-A0B0-02C3A0E4CCFA}|Excersise 1\\Excersise 1.csproj|c:\\users\\ilija\\documents\\github\\c-homeworks\\class 5 homework\\qinshiftacademy.homeworkclass5\\excersise 1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA0447F1-628A-40E6-A0B0-02C3A0E4CCFA}|Excersise 1\\Excersise 1.csproj|solutionrelative:excersise 1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CA0447F1-628A-40E6-A0B0-02C3A0E4CCFA}|Excersise 1\\Excersise 1.csproj|c:\\users\\ilija\\documents\\github\\c-homeworks\\class 5 homework\\qinshiftacademy.homeworkclass5\\excersise 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA0447F1-628A-40E6-A0B0-02C3A0E4CCFA}|Excersise 1\\Excersise 1.csproj|solutionrelative:excersise 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0447F1-628A-40E6-A0B0-02C3A0E4CCFA}|Excersise 1\\Excersise 1.csproj|c:\\users\\ilija\\documents\\github\\c-homeworks\\class 5 homework\\qinshiftacademy.homeworkclass5\\excersise 1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0447F1-628A-40E6-A0B0-02C3A0E4CCFA}|Excersise 1\\Excersise 1.csproj|solutionrelative:excersise 1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Dog.cs",
               "DocumentMoniker": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 5 Homework\\QinshiftAcademy.HomeworkClass5\\Excersise 1\\Dog.cs",
               "RelativeDocumentMoniker": "Excersise 1\\Dog.cs",
               "ToolTip": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 5 Homework\\QinshiftAcademy.HomeworkClass5\\Excersise 1\\Dog.cs",
               "RelativeToolTip": "Excersise 1\\Dog.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBYAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-09T17:10:52.024Z",
               "IsPinned": true,
@@ -36,13 +36,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 5 Homework\\QinshiftAcademy.HomeworkClass5\\Excersise 1\\Program.cs",
               "RelativeDocumentMoniker": "Excersise 1\\Program.cs",
               "ToolTip": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 5 Homework\\QinshiftAcademy.HomeworkClass5\\Excersise 1\\Program.cs",
               "RelativeToolTip": "Excersise 1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-09T17:10:21.929Z",
               "EditorCaption": ""

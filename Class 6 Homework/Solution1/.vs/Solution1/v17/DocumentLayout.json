@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 6 Homework\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1397EB-9AB4-48EC-A5C7-271C500313E7}|class7.inheritance\\class7.inheritance.csproj|c:\\users\\ilija\\documents\\github\\c-homeworks\\class 6 homework\\solution1\\class7.inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1397EB-9AB4-48EC-A5C7-271C500313E7}|class7.inheritance\\class7.inheritance.csproj|solutionrelative:class7.inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1397EB-9AB4-48EC-A5C7-271C500313E7}|class7.inheritance\\class7.inheritance.csproj|c:\\users\\ilija\\documents\\github\\c-homeworks\\class 6 homework\\solution1\\class7.inheritance\\clasess\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1397EB-9AB4-48EC-A5C7-271C500313E7}|class7.inheritance\\class7.inheritance.csproj|solutionrelative:class7.inheritance\\clasess\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1397EB-9AB4-48EC-A5C7-271C500313E7}|class7.inheritance\\class7.inheritance.csproj|c:\\users\\ilija\\documents\\github\\c-homeworks\\class 6 homework\\solution1\\class7.inheritance\\clasess\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1397EB-9AB4-48EC-A5C7-271C500313E7}|class7.inheritance\\class7.inheritance.csproj|solutionrelative:class7.inheritance\\clasess\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1397EB-9AB4-48EC-A5C7-271C500313E7}|class7.inheritance\\class7.inheritance.csproj|c:\\users\\ilija\\documents\\github\\c-homeworks\\class 6 homework\\solution1\\class7.inheritance\\clasess\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1397EB-9AB4-48EC-A5C7-271C500313E7}|class7.inheritance\\class7.inheritance.csproj|solutionrelative:class7.inheritance\\clasess\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 6 Homework\\Solution1\\class7.inheritance\\Clasess\\Trainer.cs",
+              "RelativeDocumentMoniker": "class7.inheritance\\Clasess\\Trainer.cs",
+              "ToolTip": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 6 Homework\\Solution1\\class7.inheritance\\Clasess\\Trainer.cs*",
+              "RelativeToolTip": "class7.inheritance\\Clasess\\Trainer.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:13:27.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 6 Homework\\Solution1\\class7.inheritance\\Clasess\\Student.cs",
+              "RelativeDocumentMoniker": "class7.inheritance\\Clasess\\Student.cs",
+              "ToolTip": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 6 Homework\\Solution1\\class7.inheritance\\Clasess\\Student.cs*",
+              "RelativeToolTip": "class7.inheritance\\Clasess\\Student.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:13:09.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 6 Homework\\Solution1\\class7.inheritance\\Clasess\\Person.cs",
+              "RelativeDocumentMoniker": "class7.inheritance\\Clasess\\Person.cs",
+              "ToolTip": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 6 Homework\\Solution1\\class7.inheritance\\Clasess\\Person.cs*",
+              "RelativeToolTip": "class7.inheritance\\Clasess\\Person.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:57:56.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 6 Homework\\Solution1\\class7.inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "class7.inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 6 Homework\\Solution1\\class7.inheritance\\Program.cs*",
+              "RelativeToolTip": "class7.inheritance\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:55:43.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 6 Homework\QuinshiftAcademyClaas8.Collections\Excercise 1\obj\Debug\net6.0\Excercise 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 6 Homework\QuinshiftAcademyClaas8.Collections\Excercise 1\obj\Debug\net6.0\Excercise 1.AssemblyInfoInputs.cache
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 6 Homework\QuinshiftAcademyClaas8.Collections\Excercise 1\obj\Debug\net6.0\Excercise 1.AssemblyInfo.cs
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 6 Homework\QuinshiftAcademyClaas8.Collections\Excercise 1\obj\Debug\net6.0\Excercise 1.csproj.CoreCompileInputs.cache
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 6 Homework\QuinshiftAcademyClaas8.Collections\Excercise 1\obj\Debug\net6.0\Excercise 1.sourcelink.json
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 6 Homework\QuinshiftAcademyClaas8.Collections\Excercise 1\bin\Debug\net6.0\Excercise 1.exe
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 6 Homework\QuinshiftAcademyClaas8.Collections\Excercise 1\bin\Debug\net6.0\Excercise 1.deps.json
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 6 Homework\QuinshiftAcademyClaas8.Collections\Excercise 1\bin\Debug\net6.0\Excercise 1.runtimeconfig.json
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 6 Homework\QuinshiftAcademyClaas8.Collections\Excercise 1\bin\Debug\net6.0\Excercise 1.dll
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 6 Homework\QuinshiftAcademyClaas8.Collections\Excercise 1\bin\Debug\net6.0\Excercise 1.pdb
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 6 Homework\QuinshiftAcademyClaas8.Collections\Excercise 1\obj\Debug\net6.0\Excercise 1.dll
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 6 Homework\QuinshiftAcademyClaas8.Collections\Excercise 1\obj\Debug\net6.0\refint\Excercise 1.dll
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 6 Homework\QuinshiftAcademyClaas8.Collections\Excercise 1\obj\Debug\net6.0\Excercise 1.pdb
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 6 Homework\QuinshiftAcademyClaas8.Collections\Excercise 1\obj\Debug\net6.0\Excercise 1.genruntimeconfig.cache
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 6 Homework\QuinshiftAcademyClaas8.Collections\Excercise 1\obj\Debug\net6.0\ref\Excercise 1.dll

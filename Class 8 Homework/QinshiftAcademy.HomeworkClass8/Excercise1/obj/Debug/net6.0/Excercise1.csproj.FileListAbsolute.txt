@@ -1,0 +1,15 @@
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 8 Homework\QinshiftAcademy.HomeworkClass8\Excercise1\bin\Debug\net6.0\Excercise1.exe
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 8 Homework\QinshiftAcademy.HomeworkClass8\Excercise1\bin\Debug\net6.0\Excercise1.deps.json
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 8 Homework\QinshiftAcademy.HomeworkClass8\Excercise1\bin\Debug\net6.0\Excercise1.runtimeconfig.json
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 8 Homework\QinshiftAcademy.HomeworkClass8\Excercise1\bin\Debug\net6.0\Excercise1.dll
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 8 Homework\QinshiftAcademy.HomeworkClass8\Excercise1\bin\Debug\net6.0\Excercise1.pdb
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 8 Homework\QinshiftAcademy.HomeworkClass8\Excercise1\obj\Debug\net6.0\Excercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 8 Homework\QinshiftAcademy.HomeworkClass8\Excercise1\obj\Debug\net6.0\Excercise1.AssemblyInfoInputs.cache
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 8 Homework\QinshiftAcademy.HomeworkClass8\Excercise1\obj\Debug\net6.0\Excercise1.AssemblyInfo.cs
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 8 Homework\QinshiftAcademy.HomeworkClass8\Excercise1\obj\Debug\net6.0\Excercise1.csproj.CoreCompileInputs.cache
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 8 Homework\QinshiftAcademy.HomeworkClass8\Excercise1\obj\Debug\net6.0\Excercise1.sourcelink.json
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 8 Homework\QinshiftAcademy.HomeworkClass8\Excercise1\obj\Debug\net6.0\Excercise1.dll
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 8 Homework\QinshiftAcademy.HomeworkClass8\Excercise1\obj\Debug\net6.0\refint\Excercise1.dll
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 8 Homework\QinshiftAcademy.HomeworkClass8\Excercise1\obj\Debug\net6.0\Excercise1.pdb
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 8 Homework\QinshiftAcademy.HomeworkClass8\Excercise1\obj\Debug\net6.0\Excercise1.genruntimeconfig.cache
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 8 Homework\QinshiftAcademy.HomeworkClass8\Excercise1\obj\Debug\net6.0\ref\Excercise1.dll

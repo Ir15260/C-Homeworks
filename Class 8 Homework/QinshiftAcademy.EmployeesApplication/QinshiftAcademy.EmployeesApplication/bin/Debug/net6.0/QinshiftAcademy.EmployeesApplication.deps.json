@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "QinshiftAcademy.EmployeesApplication/1.0.0": {
+        "dependencies": {
+          "QinshiftAcademy.EmployeesApplication.Domain": "1.0.0"
+        },
+        "runtime": {
+          "QinshiftAcademy.EmployeesApplication.dll": {}
+        }
+      },
+      "QinshiftAcademy.EmployeesApplication.Domain/1.0.0": {
+        "runtime": {
+          "QinshiftAcademy.EmployeesApplication.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QinshiftAcademy.EmployeesApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QinshiftAcademy.EmployeesApplication.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

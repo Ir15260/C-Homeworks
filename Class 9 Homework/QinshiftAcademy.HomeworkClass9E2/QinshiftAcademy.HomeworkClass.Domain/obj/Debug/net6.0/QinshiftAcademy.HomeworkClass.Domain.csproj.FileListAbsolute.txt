@@ -3,3 +3,10 @@ C:\Users\Ilija\Documents\github\C-Homeworks\Class 9 Homework\QinshiftAcademy.Hom
 C:\Users\Ilija\Documents\github\C-Homeworks\Class 9 Homework\QinshiftAcademy.HomeworkClass9E2\QinshiftAcademy.HomeworkClass.Domain\obj\Debug\net6.0\QinshiftAcademy.HomeworkClass.Domain.AssemblyInfo.cs
 C:\Users\Ilija\Documents\github\C-Homeworks\Class 9 Homework\QinshiftAcademy.HomeworkClass9E2\QinshiftAcademy.HomeworkClass.Domain\obj\Debug\net6.0\QinshiftAcademy.HomeworkClass.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Ilija\Documents\github\C-Homeworks\Class 9 Homework\QinshiftAcademy.HomeworkClass9E2\QinshiftAcademy.HomeworkClass.Domain\obj\Debug\net6.0\QinshiftAcademy.HomeworkClass.Domain.sourcelink.json
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 9 Homework\QinshiftAcademy.HomeworkClass9E2\QinshiftAcademy.HomeworkClass.Domain\bin\Debug\net6.0\QinshiftAcademy.HomeworkClass.Domain.deps.json
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 9 Homework\QinshiftAcademy.HomeworkClass9E2\QinshiftAcademy.HomeworkClass.Domain\bin\Debug\net6.0\QinshiftAcademy.HomeworkClass.Domain.dll
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 9 Homework\QinshiftAcademy.HomeworkClass9E2\QinshiftAcademy.HomeworkClass.Domain\bin\Debug\net6.0\QinshiftAcademy.HomeworkClass.Domain.pdb
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 9 Homework\QinshiftAcademy.HomeworkClass9E2\QinshiftAcademy.HomeworkClass.Domain\obj\Debug\net6.0\QinshiftAcademy.HomeworkClass.Domain.dll
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 9 Homework\QinshiftAcademy.HomeworkClass9E2\QinshiftAcademy.HomeworkClass.Domain\obj\Debug\net6.0\refint\QinshiftAcademy.HomeworkClass.Domain.dll
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 9 Homework\QinshiftAcademy.HomeworkClass9E2\QinshiftAcademy.HomeworkClass.Domain\obj\Debug\net6.0\QinshiftAcademy.HomeworkClass.Domain.pdb
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 9 Homework\QinshiftAcademy.HomeworkClass9E2\QinshiftAcademy.HomeworkClass.Domain\obj\Debug\net6.0\ref\QinshiftAcademy.HomeworkClass.Domain.dll

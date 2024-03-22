@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QinshiftAcademy.EmployeesApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc2511f128f521026caf9710a5018b73a4875acd")]
 [assembly: System.Reflection.AssemblyProductAttribute("QinshiftAcademy.EmployeesApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QinshiftAcademy.EmployeesApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

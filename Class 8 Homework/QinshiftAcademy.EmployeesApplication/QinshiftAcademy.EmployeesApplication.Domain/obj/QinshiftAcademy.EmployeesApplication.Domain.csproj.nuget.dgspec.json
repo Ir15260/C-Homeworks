@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Classes\\Class08\\Code\\QinshiftAcademy.EmployeesApplication\\QinshiftAcademy.EmployeesApplication.Domain\\QinshiftAcademy.EmployeesApplication.Domain.csproj": {}
+    "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 8 Homework\\QinshiftAcademy.EmployeesApplication\\QinshiftAcademy.EmployeesApplication.Domain\\QinshiftAcademy.EmployeesApplication.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Classes\\Class08\\Code\\QinshiftAcademy.EmployeesApplication\\QinshiftAcademy.EmployeesApplication.Domain\\QinshiftAcademy.EmployeesApplication.Domain.csproj": {
+    "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 8 Homework\\QinshiftAcademy.EmployeesApplication\\QinshiftAcademy.EmployeesApplication.Domain\\QinshiftAcademy.EmployeesApplication.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Classes\\Class08\\Code\\QinshiftAcademy.EmployeesApplication\\QinshiftAcademy.EmployeesApplication.Domain\\QinshiftAcademy.EmployeesApplication.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 8 Homework\\QinshiftAcademy.EmployeesApplication\\QinshiftAcademy.EmployeesApplication.Domain\\QinshiftAcademy.EmployeesApplication.Domain.csproj",
         "projectName": "QinshiftAcademy.EmployeesApplication.Domain",
-        "projectPath": "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Classes\\Class08\\Code\\QinshiftAcademy.EmployeesApplication\\QinshiftAcademy.EmployeesApplication.Domain\\QinshiftAcademy.EmployeesApplication.Domain.csproj",
+        "projectPath": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 8 Homework\\QinshiftAcademy.EmployeesApplication\\QinshiftAcademy.EmployeesApplication.Domain\\QinshiftAcademy.EmployeesApplication.Domain.csproj",
         "packagesPath": "C:\\Users\\Ilija\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ilija\\Desktop\\PROGRAMING\\SEAVUS Academy\\3.C#\\Classes\\Class08\\Code\\QinshiftAcademy.EmployeesApplication\\QinshiftAcademy.EmployeesApplication.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Ilija\\Documents\\github\\C-Homeworks\\Class 8 Homework\\QinshiftAcademy.EmployeesApplication\\QinshiftAcademy.EmployeesApplication.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

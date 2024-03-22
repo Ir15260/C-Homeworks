@@ -18,6 +18,7 @@ namespace QinshiftAcademy.HomeworkClass.Domain.Models
             Name = name;
             Color = color;
             Age = age;
+            Gender = gender;
 
         }
     }

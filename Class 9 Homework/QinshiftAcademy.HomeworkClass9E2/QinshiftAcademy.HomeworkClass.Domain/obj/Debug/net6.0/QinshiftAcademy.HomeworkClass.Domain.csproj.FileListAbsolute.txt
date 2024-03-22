@@ -1,0 +1,5 @@
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 9 Homework\QinshiftAcademy.HomeworkClass9E2\QinshiftAcademy.HomeworkClass.Domain\obj\Debug\net6.0\QinshiftAcademy.HomeworkClass.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 9 Homework\QinshiftAcademy.HomeworkClass9E2\QinshiftAcademy.HomeworkClass.Domain\obj\Debug\net6.0\QinshiftAcademy.HomeworkClass.Domain.AssemblyInfoInputs.cache
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 9 Homework\QinshiftAcademy.HomeworkClass9E2\QinshiftAcademy.HomeworkClass.Domain\obj\Debug\net6.0\QinshiftAcademy.HomeworkClass.Domain.AssemblyInfo.cs
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 9 Homework\QinshiftAcademy.HomeworkClass9E2\QinshiftAcademy.HomeworkClass.Domain\obj\Debug\net6.0\QinshiftAcademy.HomeworkClass.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ilija\Documents\github\C-Homeworks\Class 9 Homework\QinshiftAcademy.HomeworkClass9E2\QinshiftAcademy.HomeworkClass.Domain\obj\Debug\net6.0\QinshiftAcademy.HomeworkClass.Domain.sourcelink.json
